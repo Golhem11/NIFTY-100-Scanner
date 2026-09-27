@@ -1,0 +1,9 @@
+streamlit==1.40.1
+streamlit-autorefresh
+pandas
+requests
+pyotp
+smartapi-python==1.5.5
+logzero
+websocket-client
+pycryptodome
